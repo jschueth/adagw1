@@ -10,3 +10,5 @@ Description: Data that the class will use for my course Applied Data Analysis
 License: CC0 check for original data licenses
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 2.10)

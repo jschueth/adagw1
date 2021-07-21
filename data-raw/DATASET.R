@@ -1,3 +1,6 @@
 ## code to prepare `DATASET` dataset goes here
 
-usethis::use_data(DATASET, overwrite = TRUE)
+kelvin=read.table("KelvinAOE.txt", header=TRUE)
+patterson=read.table("PattersonMeteorites.txt", header=TRUE)
+usethis::use_data(kelvin, overwrite = TRUE)
+usethis::use_data(patterson, overwrite=TRUE)

@@ -1,0 +1,12 @@
+Package: adagw1
+Type: Package
+Title: Data package for Week 1 of Jon Schueth's ADAG course
+Version: 0.1.0
+Authors@R: person("Jon", "Schueth", email="jschueth@unomaha.edu",
+                  role=c("aut","cre"))
+Maintainer: Jon Schueth <jschueth@unomaha.edu>
+Description: Data that the class will use for my course Applied Data Analysis
+    in Geosciences. This is the data for week 1 of that course.
+License: CC0 check for original data licenses
+Encoding: UTF-8
+LazyData: true
